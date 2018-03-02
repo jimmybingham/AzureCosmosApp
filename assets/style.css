@@ -1,0 +1,19 @@
+ * {font-family:arial, sans-serif;}
+ 
+ td
+{
+    padding:0 15px 0 15px;
+}
+
+		.ism-table {
+			text-align: left;
+			border-collapse: collapse; 
+			padding:0 15px 0 15px;}
+		.ism-table th {
+			padding:0 15px 0 15px;
+			/* Override Pulse display: block; on spans inside ths */ }
+		.ism-table th[scope="row"] {
+			border-bottom: 1px solid #E8E8E8;
+			color: #666; }
+        .ism-table th span {
+			display: inline; }

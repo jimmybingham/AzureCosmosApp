@@ -1,0 +1,16 @@
+{
+  "name": "azurecosmosapp",
+  "version": "0.0.0",
+  "description": "A short sample app to demonstrate how to get started with Azure Cosmos DB's DocumentDB API",
+  "main": "app.js",
+  "dependencies": {
+    "documentdb": "^1.6.0",
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
